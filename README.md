@@ -1,50 +1,37 @@
-# 👋 Hi there, I'm [Your Name]!
+# Hi there, I'm Amantha Amarasena 👋
 
-![Profile Banner](https://your-image-link.com/banner.png)
-
-Welcome to my GitHub! I'm a passionate **[Your Role: e.g., Full Stack Developer, Data Scientist, DevOps Engineer]** who loves building innovative solutions, learning new technologies, and contributing to the open-source community.  
+I'm a **Site Reliability Engineer**, **Content Creator**, and **Startup Enthusiast** passionate about building reliable systems, sharing knowledge, and exploring innovative ideas.  
 
 ---
 
-## 💡 About Me
-- 🔭 Currently working on: **[Project Name]**
-- 🌱 Learning: **[Technologies/Tools you are exploring]**
-- 👯 Looking to collaborate on: **Open Source Projects & Exciting Side Projects**
-- 💬 Ask me about: **[Your expertise: e.g., Python, React, Machine Learning]**
-- ⚡ Fun fact: **[Something unique about you]**
+## 🔹 About Me
+- Experienced in managing scalable infrastructure and cloud platforms  
+- Creating content to share tech insights and tutorials  
+- Always exploring startups and new tech opportunities  
 
 ---
 
-## 🛠️ Tech Stack
-Here are some of the technologies I work with:
-
-| Frontend | Backend | Database | DevOps | Others |
-|----------|--------|---------|-------|-------|
-| React, HTML, CSS, Tailwind | Node.js, Python, Django | MySQL, MongoDB | Docker, GitHub Actions | Git, Linux, REST APIs |
+## 📫 Contact Me
+- Email: [amantha@amantha.lk](mailto:amantha@amantha.lk)  
+- Phone: [+94 (0) 712649864](tel:+94712649864)  
+- LinkedIn: [AmanthaLK](https://linkedin.com/in/AmanthaLK)  
 
 ---
 
-## 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=radical)
+## 🌐 Websites
+- [amantha.lk](https://amantha.lk) – Personal portfolio  
+- [serversalad.com](https://serversalad.com) – Cloud and server tools  
+- [amaarafashion.com](https://amaarafashion.com) – E-commerce venture  
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=your-website&logoColor=white)](https://your-portfolio.com)
+## ⚡ Skills & Interests
+- **Site Reliability Engineering (SRE)**  
+- **Cloud & Infrastructure Management**  
+- **Content Creation & Media**  
+- **Startups & Entrepreneurship**  
+- **Web Development & Automation**  
 
 ---
 
-## 🚀 Fun Projects
-Here are a few of my favorite projects:
-
-- [Project 1](#) – Short description of the project
-- [Project 2](#) – Short description of the project
-- [Project 3](#) – Short description of the project
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-Thanks for stopping by! 🌟
+Thanks for visiting my GitHub! Feel free to connect or reach out. 🚀
