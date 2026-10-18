@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=220&section=header&text=Amantha%20Amarasena&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Site%20Reliability%20Engineer%20%C2%B7%20DevOps%20%26%20Cloud%20Advocate%20%C2%B7%20Content%20Creator&descAlignY=58&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Amantha%20Amarasena&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" />
+
+**Site Reliability Engineer · DevOps & Cloud Advocate · Content Creator**
 
 <a href="https://github.com/AmanthaLK">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&height=40&lines=Reliable+systems.+Automated+operations.;Cloud+infrastructure+at+scale.;Terraform+%C2%B7+Docker+%C2%B7+Kubernetes+%C2%B7+AWS;Teaching+Python%2C+ELK+and+Cloud+to+learners+worldwide." alt="Typing animation" />
